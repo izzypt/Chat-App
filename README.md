@@ -1,2 +1,2 @@
 # Chat-App
-A simple implementation of chat with Socket.io using node and express
+A simple implementation of a chat app with Socket.io using node and express
